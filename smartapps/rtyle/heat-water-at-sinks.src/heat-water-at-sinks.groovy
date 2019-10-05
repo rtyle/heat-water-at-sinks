@@ -44,7 +44,7 @@ preferences {
 			input 'pump'	, 'capability.switch'	, title: 'Pump'	
 			input 'valves'	, 'capability.valve'	, title: 'Valves'	, required: false, multiple: true
 			input 'count'	, 'number'				, title: 'Triggers', default: '1', range: '1..9', submitOnChange: 'true'
-            label title: 'Assign a name', required: false
+			label title: 'Assign a name', required: false
 		}
 	}
 	page(name: 'triggersPage', install: true)
