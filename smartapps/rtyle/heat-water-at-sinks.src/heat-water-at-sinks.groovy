@@ -106,7 +106,7 @@ void respondToSwitch(physicalgraph.app.EventWrapper e) {
 	respond(indent + "⚡ $e.value $e.name $e.device")
 }
 
-void respondToTemperatureMeasurement(physicalgraph.app.EventWrapper e) {
+void respondToTemperature(physicalgraph.app.EventWrapper e) {
 	respond(indent + "° $e.value $e.name $e.device")
 }
 
@@ -117,7 +117,7 @@ void respondToValve(physicalgraph.app.EventWrapper e) {
 def initialize() {
 	subscribe valves, 'valve', respondToValve
 	for (Integer index = 0; index < count; ++index) {
-		subscribe settings["temperature$index"], 'temperatureMeasurement', respondToTemperatureMeasurement
+		subscribe settings["temperature$index"], 'temperature', respondToTemperature
 		subscribe settings["switches$index"], 'switch', respondToSwitch
 	}
 }
