@@ -1,161 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="499.99997"
-   height="816.61414"
-   id="svg4291"
+   viewBox="0 0 360.00293 359.82001"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="Blood drop.svg">
-  <title
-     id="title4324">Blood drop</title>
-  <defs
-     id="defs4293">
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4238"
-       id="radialGradient4244"
-       cx="1198.7987"
-       cy="-54.180092"
-       fx="1198.7987"
-       fy="-54.180092"
-       r="23.688101"
-       gradientTransform="matrix(1,0,0,1.6332284,0,38.146561)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4238">
-      <stop
-         style="stop-color:#b00000;stop-opacity:0;"
-         offset="0"
-         id="stop4240" />
-      <stop
-         style="stop-color:#b00000;stop-opacity:1;"
-         offset="1"
-         id="stop4242" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4262"
-       x="-0.19924036"
-       width="1.3984807"
-       y="-0.063234031"
-       height="1.1264681">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4048842"
-         id="feGaussianBlur4264" />
-    </filter>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="252.97376"
-     inkscape:cy="290.11669"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     borderlayer="true"
-     inkscape:showpageshadow="false"
-     inkscape:window-width="780"
-     inkscape:window-height="653"
-     inkscape:window-x="138"
-     inkscape:window-y="36"
-     inkscape:window-maximized="0" />
+   id="svg8"
+   sodipodi:docname="app.svg"
+   width="360.00293"
+   height="359.82001"
+   inkscape:version="0.92.4 (unknown)">
   <metadata
-     id="metadata4296">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Blood drop</dc:title>
-        <dc:date>2011-10-03</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Ivan d'Hostingue (aka Semhur)</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:rights>
-          <cc:Agent>
-            <dc:title>Ivan d'Hostingue</dc:title>
-          </cc:Agent>
-        </dc:rights>
-        <dc:publisher>
-          <cc:Agent>
-            <dc:title>Ivan d'Hostingue</dc:title>
-          </cc:Agent>
-        </dc:publisher>
-        <dc:identifier>http://commons.wikimedia.org/wiki/File:Blood_drop.svg</dc:identifier>
-        <dc:language>none</dc:language>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>Blood</rdf:li>
-            <rdf:li>Drop</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <dc:description>A blood drop.</dc:description>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:title></dc:title>
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-122.02624,-120.15044)">
-    <g
-       transform="matrix(10.553822,0,0,10.553822,-12220.181,1164.2345)"
-       style="display:inline"
-       id="g4266">
-      <path
-         style="fill:#ff0000;fill-opacity:1;stroke:none;display:inline"
-         d="m 1216.83,-45.241391 c 0,13.08256 -10.6055,23.68807 -23.6881,23.68807 -13.0825,0 -23.6881,-10.60551 -23.6881,-23.68807 0,-13.08257 23.6881,-34.929952 23.6881,-53.688083 0,18.741692 23.6881,40.605513 23.6881,53.688083 z"
-         id="path3466"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ssscs" />
-      <path
-         sodipodi:nodetypes="ssscs"
-         inkscape:connector-curvature="0"
-         id="path4236"
-         d="m 1216.83,-45.241391 c 0,13.08256 -10.6055,23.68807 -23.6881,23.68807 -13.0825,0 -23.6881,-10.60551 -23.6881,-23.68807 0,-13.08257 23.6881,-34.929952 23.6881,-53.688083 0,18.741692 23.6881,40.605513 23.6881,53.688083 z"
-         style="fill:url(#radialGradient4244);fill-opacity:1;stroke:none;display:inline" />
-      <path
-         sodipodi:nodetypes="cscsc"
-         inkscape:connector-curvature="0"
-         id="path3451"
-         d="m 1204.0625,-28.46875 c 12.4738,-10.829294 9.3667,-20.747748 1.5574,-32.864004 -6.7073,-10.40663 -8.0297,-15.133748 -10.0844,-20.457319 2.9218,9.566461 5.6752,15.803058 8.2899,21.375008 5.1581,10.992175 5.54,20.900963 0.2371,31.946315 z"
-         style="fill:#ffffff;stroke:none;display:inline;filter:url(#filter4262)" />
-    </g>
-  </g>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1306"
+     inkscape:window-height="1145"
+     id="namedview10"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.39333333"
+     inkscape:cx="368.13559"
+     inkscape:cy="180"
+     inkscape:window-x="204"
+     inkscape:window-y="448"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M 164.38,0.01 C 72.326,7.9366 0,85.727 0,179.82 c 0,99.36 80.64,180 180,180 99.36,0 180,-80.64 180,-180 0.0394,-5.7835 -0.32391,-11.558 -0.84375,-17.312 -5.278,-32.97 -35.364,-69.688 -85.156,-69.688 -42.028,0 -66.5,26.239 -66.5,57 0,23.005 13,39 34.5,39 34.507,0 42,-40.5 24,-57 24.691,16.056 21.5,40.25 21.5,40.25 0,48.013 -42.982,102.62 -114,102.62 -79.513,0 -119.5,-68.873 -119.5,-123.38 0,-42.34 27.159,-116.53 110.38,-151.31 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="display:inline;fill:#ff0000;fill-opacity:1" />
+  <path
+     d="m 215,7.76 c -47.529,0 -67,30.306 -67,56 0,31.309 21.085,40.031 34,40.031 20.522,0 33,-17.643 33,-33.469 0,-10.072 -3.0751,-15.166 -3.8438,-16.281 18.625,13.5 23.812,29.812 23.812,29.812 0,0 9.0393,-8.0312 38.625,-8.0312 17.564,0 45.875,4.2188 68.375,25.969 -25.695,-55 -80.252,-94.031 -126.97,-94.031 z m -141.5,122 c 0,0 -3.5625,10.311 -3.5625,26.062 0,55.284 43.772,103.5 105.06,103.5 44.658,0 80.969,-28 95.969,-65.5 0.458,-1.9628 -7.7443,11 -29.75,11 -22.522,0 -34.719,-14.031 -34.719,-14.031 0,0 -17.749,14.969 -48.5,14.969 -56.612,0 -84.5,-48.138 -84.5,-76 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="display:inline;fill:#2c9eda" />
 </svg>
