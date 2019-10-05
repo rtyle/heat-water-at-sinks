@@ -15,14 +15,15 @@
 **/
 
 definition(
-	name		: 'Heat Water at Sinks',
-	namespace	: 'rtyle',
-	author		: 'Ross Tyler',
-	description	: 'Run a hot water recirculation pump when needed',
-	category	: 'Convenience',
-	iconUrl		: 'https://raw.githubusercontent.com/rtyle/heat-water-at-sinks/master/smartapps/rtyle/heat-water-at-sinks.src/app.png',
-	iconX2Url	: 'https://raw.githubusercontent.com/rtyle/heat-water-at-sinks/master/smartapps/rtyle/heat-water-at-sinks.src/app@2x.png',
-	iconX3Url	: 'https://raw.githubusercontent.com/rtyle/heat-water-at-sinks/master/smartapps/rtyle/heat-water-at-sinks.src/app@3x.png',
+	name			: 'Heat Water at Sinks',
+	namespace		: 'rtyle',
+	author			: 'Ross Tyler',
+	description		: 'Run a hot water recirculation pump when needed',
+	category		: 'Convenience',
+	singleInstance	: false,
+	iconUrl			: 'https://raw.githubusercontent.com/rtyle/heat-water-at-sinks/master/smartapps/rtyle/heat-water-at-sinks.src/app.png',
+	iconX2Url		: 'https://raw.githubusercontent.com/rtyle/heat-water-at-sinks/master/smartapps/rtyle/heat-water-at-sinks.src/app@2x.png',
+	iconX3Url		: 'https://raw.githubusercontent.com/rtyle/heat-water-at-sinks/master/smartapps/rtyle/heat-water-at-sinks.src/app@3x.png',
 )
 
 def triggersPage() {
@@ -43,6 +44,7 @@ preferences {
 			input 'pump'	, 'capability.switch'	, title: 'Pump'	
 			input 'valves'	, 'capability.valve'	, title: 'Valves'	, required: false, multiple: true
 			input 'count'	, 'number'				, title: 'Triggers', default: '1', range: '1..9', submitOnChange: 'true'
+            label title: 'Assign a name', required: false
 		}
 	}
 	page(name: 'triggersPage', install: true)
