@@ -105,15 +105,15 @@ private void respond(message) {
 private String getIndent() {/* non-breaking space */ '\u00a0' * 8}
 
 void respondToSwitch(physicalgraph.app.EventWrapper e) {
-	respond(indent + "⚡ $e.value $e.name $e.device")
+	respond indent + "⚡ $e.value $e.name $e.device"
 }
 
 void respondToTemperature(physicalgraph.app.EventWrapper e) {
-	respond(indent + "° $e.value $e.name $e.device")
+	respond indent + "° $e.value $e.name $e.device"
 }
 
 void respondToValve(physicalgraph.app.EventWrapper e) {
-	respond(indent + "◒ $e.value $e.name $e.device")
+	respond indent + "◒ $e.value $e.name $e.device"
 }
 
 def initialize() {
